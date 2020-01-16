@@ -1,4 +1,3 @@
-# management_system<br>
 # 2020-01-16<br>
 后台管理系统模板（收集）<br>
 1.musik (音乐管理后台)<br>
